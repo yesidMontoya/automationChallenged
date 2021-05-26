@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="7.5130" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-05-26T00:08:24" tests="0" file="cypress/integration/cucumber/addAndBuy.feature" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Add products to de cart and buy" timestamp="2021-05-26T00:08:24" tests="1" time="7.5130" failures="0">
+    <testcase name="Add products to de cart and buy price" time="7.5130" classname="price">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,14 @@
+{
+    "video": true,
+    "screenshotsFolder": "cypress/screenshots",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions":{
+        "configFile": "reporterOptions.json"
+    },
+    
+    "testFiles": "**/*.feature",
+    
+    "chromeWebSecurity": false
+      
+      
+}
