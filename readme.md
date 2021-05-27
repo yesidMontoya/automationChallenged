@@ -6,12 +6,9 @@ npm install
 
 RUN TESTS:
 
-Run cypress console to test individually 
+Run cypress console and  test individually 
 
     npm run open 
-
-Run test:
-execute commands for test
     npm run addAndBuy
     npm run login
     npm run logout
