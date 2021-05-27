@@ -1,6 +1,7 @@
 Requirements: 
 - have NPM already installed
-- execute commands:
+execute commands
+
     npm install cypress
     npm install
 
