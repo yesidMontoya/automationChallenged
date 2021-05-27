@@ -1,8 +1,8 @@
 Requirements: 
 - have NPM already installed
 - execute commands:
-npm install cypress
-npm install
+    npm install cypress
+    npm install
 
 RUN TESTS:
 
